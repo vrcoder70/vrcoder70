@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I'm currently diving into Data Analysis using Python.
 - 👯 I'm open to collaborating on Data Science projects.
 - 📫 You can reach me at vrajrana70@gmail.com.
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vrcoder70/).
+- 🐦 Follow me on [Twitter](https://twitter.com/Vr_coder).
+ 
