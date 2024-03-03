@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm currently engaged in the Multimedia Web Database Project for my CSE 515 course.
-- 🌱 I'm currently diving into Data Analysis using Python.
+- 🌱 I'm currently diving into Data Science.
 - 👯 I'm open to collaborating on Data Science projects.
 - 📫 You can reach me at vrajrana70@gmail.com.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vrcoder70/).
-- 🐦 Follow me on [Twitter](https://twitter.com/Vr_coder).
+- 🔗 Explore my portfolio at [VrajRana-TechPortfolio](https://vrcoder70.github.io/VrajRana-TechPortfolio/).
+
+
+
+
+
  
