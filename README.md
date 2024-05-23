@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I'm open to collaborating on Data Science projects.
 - 📫 You can reach me at vrajrana70@gmail.com.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vrcoder70/).
-- 🔗 Explore my portfolio at [VrajRana-TechPortfolio](https://vrcoder70.github.io/VrajRana-TechPortfolio/).
+- 🔗 Explore my portfolio at [TechPortfolio](https://vrcoder70.github.io/).
 
 
 
