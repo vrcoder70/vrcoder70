@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 - 🧩 Coding [Leetcode Profile](https://leetcode.com/u/vrana7/)
 
 
+| Project Name | Project Category | Project Description | Project Link |
+|--------------|------------------|---------------------|--------------|
+| **Project 1** | Data Science     | A project that utilizes machine learning algorithms to analyze financial data and predict stock prices. | [Link](https://github.com/yourusername/project1) |
+| **Project 2** | Software Engineering | A full-stack web application built with React and Node.js that provides a platform for users to share and discuss tech articles. | [Link](https://github.com/yourusername/project2) |
+| **Project 3** | Machine Learning | An image classification model using deep learning techniques to identify objects in photographs. | [Link](https://github.com/yourusername/project3) |
+| **Project 4** | Cloud Computing  | Deployment of a scalable web service on AWS using Docker, Kubernetes, and Terraform. | [Link](https://github.com/yourusername/project4) |
+
 
 
 
