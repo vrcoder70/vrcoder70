@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🧩 Coding [Leetcode Profile](https://leetcode.com/u/vrana7/)
 
 
-|  Name                                   | Category                                | Description                                                                                                    |  Link                         |
+|  Project Name                                   | Category                                | Description                                                                                                    |  Link                         |
 |------------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 | Unsupervised Learning Trading Strategy         | Data Science                            | Implemented an unsupervised learning trading strategy using K-Means clustering and efficient frontier optimization.    | [Link](https://github.com/vrcoder70/Quant_Project/tree/main/Unsupervised%20ML%20Strategy) |
 | Twitter Sentiment-Based Trading Strategy       | Data Science                            | Developed a trading strategy using Twitter sentiment data to identify high-engagement stocks.                          | [Link](https://github.com/vrcoder70/Quant_Project/tree/main/Investment%20Strategy%20Using%20Twitter%20Data) |
